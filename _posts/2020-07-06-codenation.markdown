@@ -19,10 +19,10 @@ Você deverá criar um modelo para prever a nota da prova de matemática de quem
 
 Neste desafio você aprenderá:
 
-Lógica
-Análise de dados
-Estatística
-Regression
+Lógica,
+Análise de dados,
+Estatística,
+Regression.
 
 ## Detalhes
 
