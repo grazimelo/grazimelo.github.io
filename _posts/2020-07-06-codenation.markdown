@@ -7,7 +7,7 @@ img: codenation.png # Add image post (optional)
 tags: [Dados, Data Science, Tecnologia, Codenation, Aceleração] # add tag
 
 ---
-   ## Aqui está o primeiro desafio para entrar no programa de aceleração da Codenation, juntamente com o desafios propostos no decorrer do curso. Segue o link dos repositórios. 
+## Aqui está o primeiro desafio para entrar no programa de aceleração da Codenation, juntamente com o desafios propostos no decorrer do curso. 
 
 ## Desafio para participar da Aceleração. 
 
