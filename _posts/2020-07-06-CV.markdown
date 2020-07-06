@@ -3,7 +3,7 @@ layout: post
 title: Currículo.
 date: 2020-07-06 01:00:00 +0300
 description: Sinta-se à vontade para entrar em contato comigo por e-mail a qualquer momento. # Add post description (optional)
-img: curriculo.jpg # Add image post (optional)
+img: brand color palette.png # Add image post (optional)
 tags: [Dados, Data Science, Tecnologia] # add tag
 ---
 
