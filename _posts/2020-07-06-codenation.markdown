@@ -7,11 +7,11 @@ img: codenation.png # Add image post (optional)
 tags: [Dados, Data Science, Tecnologia, Codenation, Aceleração] # add tag
 
 ---
-   ### Aqui está o primeiro desafio para entrar no programa de aceleração da Codenation, juntamente com o desafios propostos no decorrer do curso. Segue o link dos repositórios. 
+   ## Aqui está o primeiro desafio para entrar no programa de aceleração da Codenation, juntamente com o desafios propostos no decorrer do curso. Segue o link dos repositórios. 
 
 ## Desafio para participar da Aceleração. 
 
-** Descubrir as melhores notas de matemática do ENEM 2016 **
+* Descubrir as melhores notas de matemática do ENEM 2016
 
 Você deverá criar um modelo para prever a nota da prova de matemática de quem participou do ENEM 2016.
 
@@ -49,5 +49,7 @@ Faça o upload do arquivo answer.csv usando o botão “Submeter resposta”.
 O objetivo do desafio é avaliar a sua capacidade de resolver problemas, então ele pode ser resolvido em qualquer linguagem de programação ou ferramenta que você tenha facilidade. Mas recomendamos o uso de linguagens com maior ferramental de matemática e estatística como Python, R, Scala ou Julia.
 
 
-Link do repositório: * [github](https://github.com/grazimelo/Condenation){:target="_blank"} — “Descubrir as melhores notas de matemática do ENEM 2016”
+Link do repositório: 
+
+* [github](https://github.com/grazimelo/Condenation){:target="_blank"} — “Descubrir as melhores notas de matemática do ENEM 2016”
 
