@@ -51,6 +51,6 @@ O objetivo do desafio é avaliar a sua capacidade de resolver problemas, então 
 
 Link dos repositórios: 
 
-* [github](https://github.com/grazimelo/Condenation){:target="_blank"} — “Descubrir as melhores notas de matemática do ENEM 2016 e outros desafios recorrentes.”
+* [Github](https://github.com/grazimelo/Condenation){:target="_blank"} — “Descubrir as melhores notas de matemática do ENEM 2016 e outros desafios recorrentes.”
 
 
