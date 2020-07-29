@@ -19,7 +19,7 @@ Perguntas:
 
 * Qual o estado que mais possuem acidentes?
 
-* Tipo de pessoa que mais de envolve em acidentes.
+* Tipo de pessoa que mais se envolve em acidentes.
 
 * Porcentagem de estados físicos após acidentes.
 
