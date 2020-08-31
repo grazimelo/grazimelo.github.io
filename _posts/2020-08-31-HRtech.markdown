@@ -1,0 +1,26 @@
+---
+layout: post
+title: Previsão de Demissão e Análise de interpretabilidade.
+date: 2020-07-06 01:00:00 +0300
+description: Modelo com dados de uma empresa de RH, para prever se o funcionário irá se demitir, além de análise exploratória e análise de interpretabilidade do modelo. # Add post description (optional)
+img: HRtech.jpeg # Add image post (optional)
+tags: [Dados, Data Science, Tecnologia, RH] # add tag
+
+---
+
+## Modelo de classificação binária, com objetivo de prever se o funcionário de uma determinada empresa irá se demitir.
+
+Foram utilizados na etapa de seleção de feature os métodos: Boruta, Chi2, e correlação. 
+Para a modelagem: Modelo de Random Forest. 
+Interpretabilidade do Modelo: Shap Values. 
+
+
+Link do Repositório: 
+
+* [Github](https://github.com/grazimelo/HRtech_analysis){:target="_blank"} — “Modelo no Github, confere lá! :) . ”
+
+Link dos dado no Kaggle: 
+
+* [Dados](https://www.kaggle.com/krismurphy01/data-lab){:target="_blank"} — ":)" 
+
+
