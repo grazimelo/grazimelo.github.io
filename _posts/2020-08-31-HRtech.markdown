@@ -12,7 +12,7 @@ tags: [Dados, Data Science, Tecnologia, RH] # add tag
 
 Foram utilizados na etapa de seleção de feature os métodos: Boruta, Chi2, e correlação. 
 Para a modelagem: Modelo de Random Forest. 
-Interpretabilidade do Modelo: Shap Values. 
+Interpretabilidade do modelo: Shap Values. 
 
 
 Link do Repositório: 
